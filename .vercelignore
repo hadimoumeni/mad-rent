@@ -1,0 +1,8 @@
+data/
+output/
+src/
+__pycache__/
+*.py
+*.pyc
+README.md
+.gitignore
