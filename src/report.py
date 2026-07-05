@@ -342,7 +342,7 @@ _STYLE = """
 :root{
   --bg:#0a0a0a;
   --font-mono:'JetBrains Mono',ui-monospace,monospace;
-  --font-display:'Sora',var(--font-mono);
+  --font-display:var(--font-mono);  /* papertrail is pure mono — no Sora */
   --t1:rgba(255,255,255,.92); --t2:rgba(255,255,255,.70); --t3:rgba(255,255,255,.50);
   --t4:rgba(255,255,255,.35); --t5:rgba(255,255,255,.22); --t6:rgba(255,255,255,.14);
   --t7:rgba(255,255,255,.08);
@@ -473,7 +473,7 @@ def _scrape_date() -> str:
 _FONTS = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
           '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
           '<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:'
-          'wght@300;400;500;600;700&family=Sora:wght@500;600&display=swap" '
+          'wght@300;400;500;600;700&display=swap" '
           'rel="stylesheet">')
 
 
