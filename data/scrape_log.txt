@@ -1,0 +1,32 @@
+Scraping Fotocasa Madrid rentals (burst-and-silence) across 21 districts: up to 1 pages, 7.0s delay
+
+  p1 centro                 + 16  (total 16)
+  p1 barrio-de-salamanca    + 24  (total 40)
+  p1 chamberi               + 19  (total 59)
+  p1 retiro                 + 17  (total 76)
+  p1 arganzuela             + 24  (total 100)
+    …quiet for 101s (let the rate limit reset)
+  p1 chamartin              + 27  (total 127)
+  p1 tetuan                 + 21  (total 148)
+  p1 moncloa-aravaca        + 19  (total 167)
+  p1 fuencarral-el-pardo    + 28  (total 195)
+  p1 ciudad-lineal          + 25  (total 220)
+    …quiet for 104s (let the rate limit reset)
+  p1 hortaleza              +  6  (total 226)
+  p1 latina                 + 17  (total 243)
+  p1 carabanchel            + 21  (total 264)
+  p1 usera                  + 25  (total 289)
+  p1 puente-de-vallecas     + 26  (total 315)
+    …quiet for 103s (let the rate limit reset)
+  p1 moratalaz              + 20  (total 335)
+  p1 villaverde             + 19  (total 354)
+  p1 villa-de-vallecas      + 10  (total 364)
+  p1 vicalvaro              + 19  (total 383)
+  p1 san-blas               + 25  (total 408)
+    …quiet for 102s (let the rate limit reset)
+  p1 barajas                + 25  (total 433)
+  --- page 1: 21 districts returned data (433 listings) ---
+
+This run added 428 new listings; dataset now 597 total -> listings_raw.jsonl + listings.csv
+Price €/mo: min 590  median 1450  max 238000
+Districts: 21 distinct

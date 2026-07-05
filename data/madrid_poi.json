@@ -1,0 +1,1390 @@
+{
+  "metro_stations": [
+    {
+      "name": "Abrantes",
+      "lat": 40.3816,
+      "lon": -3.72697
+    },
+    {
+      "name": "Acacias",
+      "lat": 40.40392,
+      "lon": -3.70679
+    },
+    {
+      "name": "Aeropuerto T1-T2-T3",
+      "lat": 40.46791,
+      "lon": -3.57176
+    },
+    {
+      "name": "Aeropuerto T4",
+      "lat": 40.4915,
+      "lon": -3.59407
+    },
+    {
+      "name": "Alameda de Osuna",
+      "lat": 40.45758,
+      "lon": -3.58797
+    },
+    {
+      "name": "Alcorcón Central",
+      "lat": 40.35009,
+      "lon": -3.83172
+    },
+    {
+      "name": "Alfonso XIII",
+      "lat": 40.4483,
+      "lon": -3.66789
+    },
+    {
+      "name": "Almendrales",
+      "lat": 40.3833,
+      "lon": -3.6982
+    },
+    {
+      "name": "Alonso Cano",
+      "lat": 40.4383,
+      "lon": -3.69924
+    },
+    {
+      "name": "Alonso Martínez",
+      "lat": 40.42753,
+      "lon": -3.69572
+    },
+    {
+      "name": "Alonso de Mendoza",
+      "lat": 40.30058,
+      "lon": -3.73629
+    },
+    {
+      "name": "Alsacia",
+      "lat": 40.41844,
+      "lon": -3.62351
+    },
+    {
+      "name": "Alto de Extremadura",
+      "lat": 40.41011,
+      "lon": -3.73803
+    },
+    {
+      "name": "Alto del Arenal",
+      "lat": 40.3898,
+      "lon": -3.64523
+    },
+    {
+      "name": "Alvarado",
+      "lat": 40.4501,
+      "lon": -3.70336
+    },
+    {
+      "name": "Antonio Machado",
+      "lat": 40.47025,
+      "lon": -3.7176
+    },
+    {
+      "name": "Antón Martín",
+      "lat": 40.4121,
+      "lon": -3.69937
+    },
+    {
+      "name": "Arganzuela-Planetario",
+      "lat": 40.3932,
+      "lon": -3.68865
+    },
+    {
+      "name": "Argüelles",
+      "lat": 40.4306,
+      "lon": -3.71634
+    },
+    {
+      "name": "Arroyo Culebro",
+      "lat": 40.28871,
+      "lon": -3.75692
+    },
+    {
+      "name": "Arroyofresno",
+      "lat": 40.4906,
+      "lon": -3.72541
+    },
+    {
+      "name": "Artilleros",
+      "lat": 40.40523,
+      "lon": -3.64174
+    },
+    {
+      "name": "Arturo Soria",
+      "lat": 40.4558,
+      "lon": -3.65617
+    },
+    {
+      "name": "Ascao",
+      "lat": 40.4302,
+      "lon": -3.64107
+    },
+    {
+      "name": "Atocha",
+      "lat": 40.4066,
+      "lon": -3.68928
+    },
+    {
+      "name": "Avenida de América",
+      "lat": 40.43861,
+      "lon": -3.67528
+    },
+    {
+      "name": "Avenida de Guadalajara",
+      "lat": 40.4222,
+      "lon": -3.61196
+    },
+    {
+      "name": "Avenida de la Ilustración",
+      "lat": 40.4798,
+      "lon": -3.71881
+    },
+    {
+      "name": "Avenida de la Paz",
+      "lat": 40.4533,
+      "lon": -3.66252
+    },
+    {
+      "name": "Aviación Española",
+      "lat": 40.3836,
+      "lon": -3.78389
+    },
+    {
+      "name": "Bambú",
+      "lat": 40.47681,
+      "lon": -3.67642
+    },
+    {
+      "name": "Banco de España",
+      "lat": 40.4192,
+      "lon": -3.69501
+    },
+    {
+      "name": "Barajas",
+      "lat": 40.4761,
+      "lon": -3.58296
+    },
+    {
+      "name": "Barrio de la Concepción",
+      "lat": 40.43856,
+      "lon": -3.65169
+    },
+    {
+      "name": "Barrio del Pilar",
+      "lat": 40.4769,
+      "lon": -3.70316
+    },
+    {
+      "name": "Barrio del Puerto",
+      "lat": 40.4226,
+      "lon": -3.56929
+    },
+    {
+      "name": "Batán",
+      "lat": 40.4078,
+      "lon": -3.75312
+    },
+    {
+      "name": "Baunatal",
+      "lat": 40.5543,
+      "lon": -3.63511
+    },
+    {
+      "name": "Begoña",
+      "lat": 40.4804,
+      "lon": -3.68587
+    },
+    {
+      "name": "Bilbao",
+      "lat": 40.4291,
+      "lon": -3.70214
+    },
+    {
+      "name": "Buenos Aires",
+      "lat": 40.3914,
+      "lon": -3.65295
+    },
+    {
+      "name": "Callao",
+      "lat": 40.4201,
+      "lon": -3.70565
+    },
+    {
+      "name": "Campamento",
+      "lat": 40.3948,
+      "lon": -3.7681
+    },
+    {
+      "name": "Canal",
+      "lat": 40.4384,
+      "lon": -3.70432
+    },
+    {
+      "name": "Canillas",
+      "lat": 40.4638,
+      "lon": -3.63555
+    },
+    {
+      "name": "Canillejas",
+      "lat": 40.44911,
+      "lon": -3.60858
+    },
+    {
+      "name": "Carabanchel",
+      "lat": 40.3879,
+      "lon": -3.74465
+    },
+    {
+      "name": "Carabanchel Alto",
+      "lat": 40.3705,
+      "lon": -3.75281
+    },
+    {
+      "name": "Carpetana",
+      "lat": 40.3925,
+      "lon": -3.74145
+    },
+    {
+      "name": "Cartagena",
+      "lat": 40.43934,
+      "lon": -3.67208
+    },
+    {
+      "name": "Casa de Campo",
+      "lat": 40.4031,
+      "lon": -3.76116
+    },
+    {
+      "name": "Casa del Reloj",
+      "lat": 40.32657,
+      "lon": -3.7594
+    },
+    {
+      "name": "Chamartín",
+      "lat": 40.47394,
+      "lon": -3.68264
+    },
+    {
+      "name": "Chamberí",
+      "lat": 40.4323,
+      "lon": -3.69772
+    },
+    {
+      "name": "Chueca",
+      "lat": 40.4229,
+      "lon": -3.69759
+    },
+    {
+      "name": "Ciudad Lineal",
+      "lat": 40.438,
+      "lon": -3.63815
+    },
+    {
+      "name": "Ciudad Universitaria",
+      "lat": 40.4436,
+      "lon": -3.72672
+    },
+    {
+      "name": "Ciudad de los Ángeles",
+      "lat": 40.36,
+      "lon": -3.69389
+    },
+    {
+      "name": "Colombia",
+      "lat": 40.4563,
+      "lon": -3.67686
+    },
+    {
+      "name": "Colonia Jardín",
+      "lat": 40.397,
+      "lon": -3.77475
+    },
+    {
+      "name": "Colón",
+      "lat": 40.4254,
+      "lon": -3.69098
+    },
+    {
+      "name": "Concha Espina",
+      "lat": 40.4514,
+      "lon": -3.67742
+    },
+    {
+      "name": "Conde de Casal",
+      "lat": 40.4069,
+      "lon": -3.6705
+    },
+    {
+      "name": "Congosto",
+      "lat": 40.3724,
+      "lon": -3.61879
+    },
+    {
+      "name": "Conservatorio",
+      "lat": 40.2933,
+      "lon": -3.74578
+    },
+    {
+      "name": "Coslada Central",
+      "lat": 40.424,
+      "lon": -3.5621
+    },
+    {
+      "name": "Cruz del Rayo",
+      "lat": 40.44625,
+      "lon": -3.67835
+    },
+    {
+      "name": "Cuatro Caminos",
+      "lat": 40.44696,
+      "lon": -3.70397
+    },
+    {
+      "name": "Cuatro Vientos",
+      "lat": 40.3776,
+      "lon": -3.79164
+    },
+    {
+      "name": "Cuzco",
+      "lat": 40.4584,
+      "lon": -3.68982
+    },
+    {
+      "name": "Delicias",
+      "lat": 40.3984,
+      "lon": -3.69422
+    },
+    {
+      "name": "Diego de León",
+      "lat": 40.4348,
+      "lon": -3.67476
+    },
+    {
+      "name": "Duque de Pastrana",
+      "lat": 40.4676,
+      "lon": -3.67933
+    },
+    {
+      "name": "El Bercial",
+      "lat": 40.32944,
+      "lon": -3.73
+    },
+    {
+      "name": "El Capricho",
+      "lat": 40.45337,
+      "lon": -3.5942
+    },
+    {
+      "name": "El Carmen",
+      "lat": 40.4319,
+      "lon": -3.65759
+    },
+    {
+      "name": "El Carrascal",
+      "lat": 40.33667,
+      "lon": -3.74028
+    },
+    {
+      "name": "Embajadores",
+      "lat": 40.40464,
+      "lon": -3.70258
+    },
+    {
+      "name": "Empalme",
+      "lat": 40.3908,
+      "lon": -3.76636
+    },
+    {
+      "name": "Esperanza",
+      "lat": 40.4594,
+      "lon": -3.64542
+    },
+    {
+      "name": "Estación del Arte",
+      "lat": 40.40889,
+      "lon": -3.6925
+    },
+    {
+      "name": "Estadio Metropolitano",
+      "lat": 40.43339,
+      "lon": -3.60015
+    },
+    {
+      "name": "Estrecho",
+      "lat": 40.45373,
+      "lon": -3.70296
+    },
+    {
+      "name": "Estrella",
+      "lat": 40.4115,
+      "lon": -3.66175
+    },
+    {
+      "name": "Eugenia de Montijo",
+      "lat": 40.3852,
+      "lon": -3.74926
+    },
+    {
+      "name": "Feria de Madrid",
+      "lat": 40.4639,
+      "lon": -3.61616
+    },
+    {
+      "name": "Francos Rodríguez",
+      "lat": 40.4572,
+      "lon": -3.71186
+    },
+    {
+      "name": "Fuencarral",
+      "lat": 40.4952,
+      "lon": -3.69312
+    },
+    {
+      "name": "Fuenlabrada Central",
+      "lat": 40.2824,
+      "lon": -3.79927
+    },
+    {
+      "name": "García Noblejas",
+      "lat": 40.4289,
+      "lon": -3.63332
+    },
+    {
+      "name": "Getafe Central",
+      "lat": 40.30994,
+      "lon": -3.734
+    },
+    {
+      "name": "Goya",
+      "lat": 40.42444,
+      "lon": -3.67556
+    },
+    {
+      "name": "Gran Vía",
+      "lat": 40.42,
+      "lon": -3.70167
+    },
+    {
+      "name": "Gregorio Marañón",
+      "lat": 40.4383,
+      "lon": -3.69147
+    },
+    {
+      "name": "Guzmán el Bueno",
+      "lat": 40.4463,
+      "lon": -3.71224
+    },
+    {
+      "name": "Henares",
+      "lat": 40.41778,
+      "lon": -3.52718
+    },
+    {
+      "name": "Herrera Oria",
+      "lat": 40.4848,
+      "lon": -3.70752
+    },
+    {
+      "name": "Hortaleza",
+      "lat": 40.47473,
+      "lon": -3.65213
+    },
+    {
+      "name": "Hospital 12 de Octubre",
+      "lat": 40.375,
+      "lon": -3.69583
+    },
+    {
+      "name": "Hospital Infanta Sofía",
+      "lat": 40.5598,
+      "lon": -3.61146
+    },
+    {
+      "name": "Hospital Severo Ochoa",
+      "lat": 40.3217,
+      "lon": -3.76797
+    },
+    {
+      "name": "Hospital de Fuenlabrada",
+      "lat": 40.28576,
+      "lon": -3.81657
+    },
+    {
+      "name": "Hospital de Móstoles",
+      "lat": 40.3165,
+      "lon": -3.87468
+    },
+    {
+      "name": "Hospital del Henares",
+      "lat": 40.4176,
+      "lon": -3.53457
+    },
+    {
+      "name": "Ibiza",
+      "lat": 40.41856,
+      "lon": -3.67855
+    },
+    {
+      "name": "Iglesia",
+      "lat": 40.4349,
+      "lon": -3.69872
+    },
+    {
+      "name": "Intercambiador de Aluche",
+      "lat": 40.38569,
+      "lon": -3.76075
+    },
+    {
+      "name": "Islas Filipinas",
+      "lat": 40.43904,
+      "lon": -3.71398
+    },
+    {
+      "name": "Jarama",
+      "lat": 40.4231,
+      "lon": -3.5247
+    },
+    {
+      "name": "Joaquín Vilumbrales",
+      "lat": 40.3497,
+      "lon": -3.80752
+    },
+    {
+      "name": "Juan de la Cierva",
+      "lat": 40.3118,
+      "lon": -3.72224
+    },
+    {
+      "name": "Julián Besteiro",
+      "lat": 40.3348,
+      "lon": -3.75266
+    },
+    {
+      "name": "La Almudena",
+      "lat": 40.4236,
+      "lon": -3.63917
+    },
+    {
+      "name": "La Elipa",
+      "lat": 40.427,
+      "lon": -3.64982
+    },
+    {
+      "name": "La Fortuna",
+      "lat": 40.358,
+      "lon": -3.77777
+    },
+    {
+      "name": "La Gavia",
+      "lat": 40.36922,
+      "lon": -3.61256
+    },
+    {
+      "name": "La Granja",
+      "lat": 40.5277,
+      "lon": -3.65861
+    },
+    {
+      "name": "La Latina",
+      "lat": 40.4112,
+      "lon": -3.70845
+    },
+    {
+      "name": "La Moraleja",
+      "lat": 40.5319,
+      "lon": -3.63549
+    },
+    {
+      "name": "La Peseta",
+      "lat": 40.3627,
+      "lon": -3.75635
+    },
+    {
+      "name": "La Poveda",
+      "lat": 40.319,
+      "lon": -3.47747
+    },
+    {
+      "name": "La Rambla",
+      "lat": 40.4254,
+      "lon": -3.54792
+    },
+    {
+      "name": "Lacoma",
+      "lat": 40.485,
+      "lon": -3.72301
+    },
+    {
+      "name": "Lago",
+      "lat": 40.41639,
+      "lon": -3.735
+    },
+    {
+      "name": "Laguna",
+      "lat": 40.3992,
+      "lon": -3.74439
+    },
+    {
+      "name": "Las Musas",
+      "lat": 40.4331,
+      "lon": -3.60768
+    },
+    {
+      "name": "Las Rosas",
+      "lat": 40.4238,
+      "lon": -3.60371
+    },
+    {
+      "name": "Las Suertes",
+      "lat": 40.36324,
+      "lon": -3.59951
+    },
+    {
+      "name": "Las Tablas",
+      "lat": 40.5088,
+      "lon": -3.66941
+    },
+    {
+      "name": "Lavapiés",
+      "lat": 40.4085,
+      "lon": -3.70076
+    },
+    {
+      "name": "Leganés Central",
+      "lat": 40.3289,
+      "lon": -3.77129
+    },
+    {
+      "name": "Legazpi",
+      "lat": 40.3911,
+      "lon": -3.695
+    },
+    {
+      "name": "Lista",
+      "lat": 40.4292,
+      "lon": -3.67542
+    },
+    {
+      "name": "Loranca",
+      "lat": 40.2965,
+      "lon": -3.83768
+    },
+    {
+      "name": "Los Espartales",
+      "lat": 40.32431,
+      "lon": -3.71833
+    },
+    {
+      "name": "Lucero",
+      "lat": 40.4051,
+      "lon": -3.74531
+    },
+    {
+      "name": "Madrid Río",
+      "lat": 40.39694,
+      "lon": -3.70667
+    },
+    {
+      "name": "Manoteras",
+      "lat": 40.4768,
+      "lon": -3.66284
+    },
+    {
+      "name": "Manuel Becerra",
+      "lat": 40.4279,
+      "lon": -3.66912
+    },
+    {
+      "name": "Manuel de Falla",
+      "lat": 40.5505,
+      "lon": -3.64684
+    },
+    {
+      "name": "Manuela Malasaña",
+      "lat": 40.3091,
+      "lon": -3.86399
+    },
+    {
+      "name": "Mar de Cristal",
+      "lat": 40.46917,
+      "lon": -3.63917
+    },
+    {
+      "name": "Marqués de Vadillo",
+      "lat": 40.3975,
+      "lon": -3.71602
+    },
+    {
+      "name": "Marqués de la Valdavia",
+      "lat": 40.541,
+      "lon": -3.6374
+    },
+    {
+      "name": "Menéndez Pelayo",
+      "lat": 40.4045,
+      "lon": -3.68061
+    },
+    {
+      "name": "Miguel Hernández",
+      "lat": 40.3875,
+      "lon": -3.64056
+    },
+    {
+      "name": "Mirasierra",
+      "lat": 40.4907,
+      "lon": -3.71602
+    },
+    {
+      "name": "Moncloa",
+      "lat": 40.43444,
+      "lon": -3.71944
+    },
+    {
+      "name": "Montecarmelo",
+      "lat": 40.50531,
+      "lon": -3.69596
+    },
+    {
+      "name": "Méndez Álvaro",
+      "lat": 40.39556,
+      "lon": -3.67819
+    },
+    {
+      "name": "Móstoles",
+      "lat": 40.32858,
+      "lon": -3.86364
+    },
+    {
+      "name": "Noviciado",
+      "lat": 40.42424,
+      "lon": -3.70744
+    },
+    {
+      "name": "Nueva Numancia",
+      "lat": 40.395,
+      "lon": -3.663
+    },
+    {
+      "name": "Núñez de Balboa",
+      "lat": 40.433,
+      "lon": -3.67973
+    },
+    {
+      "name": "O'Donnell",
+      "lat": 40.423,
+      "lon": -3.66894
+    },
+    {
+      "name": "Opañel",
+      "lat": 40.3874,
+      "lon": -3.72308
+    },
+    {
+      "name": "Oporto",
+      "lat": 40.3885,
+      "lon": -3.7319
+    },
+    {
+      "name": "Paco de Lucía",
+      "lat": 40.4997,
+      "lon": -3.7097
+    },
+    {
+      "name": "Pacífico",
+      "lat": 40.4013,
+      "lon": -3.67508
+    },
+    {
+      "name": "Palos de la Frontera",
+      "lat": 40.4031,
+      "lon": -3.69418
+    },
+    {
+      "name": "Pan Bendito",
+      "lat": 40.3758,
+      "lon": -3.73438
+    },
+    {
+      "name": "Parque Europa",
+      "lat": 40.2854,
+      "lon": -3.80636
+    },
+    {
+      "name": "Parque Lisboa",
+      "lat": 40.3497,
+      "lon": -3.82127
+    },
+    {
+      "name": "Parque Oeste",
+      "lat": 40.346,
+      "lon": -3.8493
+    },
+    {
+      "name": "Parque de Santa María",
+      "lat": 40.4768,
+      "lon": -3.64523
+    },
+    {
+      "name": "Parque de las Avenidas",
+      "lat": 40.4395,
+      "lon": -3.66295
+    },
+    {
+      "name": "Parque de los Estados",
+      "lat": 40.2868,
+      "lon": -3.78696
+    },
+    {
+      "name": "Pavones",
+      "lat": 40.40051,
+      "lon": -3.63512
+    },
+    {
+      "name": "Peñagrande",
+      "lat": 40.476,
+      "lon": -3.71612
+    },
+    {
+      "name": "Pinar de Chamartín",
+      "lat": 40.48018,
+      "lon": -3.66679
+    },
+    {
+      "name": "Pinar del Rey",
+      "lat": 40.4677,
+      "lon": -3.64861
+    },
+    {
+      "name": "Pirámides",
+      "lat": 40.4025,
+      "lon": -3.71139
+    },
+    {
+      "name": "Pitis",
+      "lat": 40.4951,
+      "lon": -3.72664
+    },
+    {
+      "name": "Plaza Elíptica",
+      "lat": 40.38535,
+      "lon": -3.71788
+    },
+    {
+      "name": "Plaza de Castilla",
+      "lat": 40.4669,
+      "lon": -3.6892
+    },
+    {
+      "name": "Plaza de España",
+      "lat": 40.4234,
+      "lon": -3.71123
+    },
+    {
+      "name": "Portazgo",
+      "lat": 40.393,
+      "lon": -3.65909
+    },
+    {
+      "name": "Pradillo",
+      "lat": 40.3217,
+      "lon": -3.86487
+    },
+    {
+      "name": "Prosperidad",
+      "lat": 40.444,
+      "lon": -3.67448
+    },
+    {
+      "name": "Príncipe Pío",
+      "lat": 40.4214,
+      "lon": -3.71889
+    },
+    {
+      "name": "Príncipe de Vergara",
+      "lat": 40.4229,
+      "lon": -3.68012
+    },
+    {
+      "name": "Pueblo Nuevo",
+      "lat": 40.43563,
+      "lon": -3.64289
+    },
+    {
+      "name": "Puente de Vallecas",
+      "lat": 40.3982,
+      "lon": -3.66901
+    },
+    {
+      "name": "Puerta de Arganda",
+      "lat": 40.40122,
+      "lon": -3.596
+    },
+    {
+      "name": "Puerta de Toledo",
+      "lat": 40.4066,
+      "lon": -3.7113
+    },
+    {
+      "name": "Puerta del Sur",
+      "lat": 40.3452,
+      "lon": -3.81219
+    },
+    {
+      "name": "Puerta del Ángel",
+      "lat": 40.4135,
+      "lon": -3.7272
+    },
+    {
+      "name": "Pío XII",
+      "lat": 40.4627,
+      "lon": -3.67574
+    },
+    {
+      "name": "Quevedo",
+      "lat": 40.43361,
+      "lon": -3.70472
+    },
+    {
+      "name": "Quintana",
+      "lat": 40.4335,
+      "lon": -3.64733
+    },
+    {
+      "name": "República Argentina",
+      "lat": 40.44494,
+      "lon": -3.68496
+    },
+    {
+      "name": "Retiro",
+      "lat": 40.4207,
+      "lon": -3.68587
+    },
+    {
+      "name": "Reyes Católicos",
+      "lat": 40.5503,
+      "lon": -3.62338
+    },
+    {
+      "name": "Rivas Futura",
+      "lat": 40.3414,
+      "lon": -3.52496
+    },
+    {
+      "name": "Rivas Vaciamadrid",
+      "lat": 40.3284,
+      "lon": -3.52065
+    },
+    {
+      "name": "Rivas-Urbanizaciones",
+      "lat": 40.3667,
+      "lon": -3.54728
+    },
+    {
+      "name": "Ronda de la Comunicación",
+      "lat": 40.5155,
+      "lon": -3.66274
+    },
+    {
+      "name": "Rubén Darío",
+      "lat": 40.4333,
+      "lon": -3.68884
+    },
+    {
+      "name": "Ríos Rosas",
+      "lat": 40.4419,
+      "lon": -3.70162
+    },
+    {
+      "name": "Sainz de Baranda",
+      "lat": 40.4151,
+      "lon": -3.66958
+    },
+    {
+      "name": "San Bernardo",
+      "lat": 40.4302,
+      "lon": -3.70576
+    },
+    {
+      "name": "San Blas",
+      "lat": 40.4281,
+      "lon": -3.61562
+    },
+    {
+      "name": "San Cipriano",
+      "lat": 40.4038,
+      "lon": -3.60236
+    },
+    {
+      "name": "San Cristóbal",
+      "lat": 40.3415,
+      "lon": -3.69327
+    },
+    {
+      "name": "San Fermín-Orcasur",
+      "lat": 40.3698,
+      "lon": -3.69478
+    },
+    {
+      "name": "San Fernando",
+      "lat": 40.4239,
+      "lon": -3.5351
+    },
+    {
+      "name": "San Francisco",
+      "lat": 40.3736,
+      "lon": -3.73911
+    },
+    {
+      "name": "San Lorenzo",
+      "lat": 40.4744,
+      "lon": -3.63954
+    },
+    {
+      "name": "San Nicasio",
+      "lat": 40.3361,
+      "lon": -3.77584
+    },
+    {
+      "name": "Santiago Bernabéu",
+      "lat": 40.45206,
+      "lon": -3.69075
+    },
+    {
+      "name": "Santo Domingo",
+      "lat": 40.42,
+      "lon": -3.70806
+    },
+    {
+      "name": "Serrano",
+      "lat": 40.4254,
+      "lon": -3.68662
+    },
+    {
+      "name": "Sevilla",
+      "lat": 40.4182,
+      "lon": -3.69824
+    },
+    {
+      "name": "Sierra de Guadalupe",
+      "lat": 40.3821,
+      "lon": -3.62474
+    },
+    {
+      "name": "Simancas",
+      "lat": 40.4279,
+      "lon": -3.62581
+    },
+    {
+      "name": "Sol",
+      "lat": 40.41667,
+      "lon": -3.70333
+    },
+    {
+      "name": "Suanzes",
+      "lat": 40.44083,
+      "lon": -3.62667
+    },
+    {
+      "name": "Tetuán",
+      "lat": 40.46042,
+      "lon": -3.69843
+    },
+    {
+      "name": "Tirso de Molina",
+      "lat": 40.4123,
+      "lon": -3.70467
+    },
+    {
+      "name": "Torre Arias",
+      "lat": 40.44362,
+      "lon": -3.61712
+    },
+    {
+      "name": "Tres Olivos",
+      "lat": 40.5012,
+      "lon": -3.69525
+    },
+    {
+      "name": "Tribunal",
+      "lat": 40.4254,
+      "lon": -3.70098
+    },
+    {
+      "name": "Universidad Rey Juan Carlos",
+      "lat": 40.3351,
+      "lon": -3.87221
+    },
+    {
+      "name": "Urgel",
+      "lat": 40.3933,
+      "lon": -3.72364
+    },
+    {
+      "name": "Usera",
+      "lat": 40.3867,
+      "lon": -3.70688
+    },
+    {
+      "name": "Valdeacederas",
+      "lat": 40.4643,
+      "lon": -3.69578
+    },
+    {
+      "name": "Valdebernardo",
+      "lat": 40.39913,
+      "lon": -3.62189
+    },
+    {
+      "name": "Valdecarros",
+      "lat": 40.3601,
+      "lon": -3.59313
+    },
+    {
+      "name": "Valdezarza",
+      "lat": 40.4648,
+      "lon": -3.71602
+    },
+    {
+      "name": "Velázquez",
+      "lat": 40.425,
+      "lon": -3.68293
+    },
+    {
+      "name": "Ventas",
+      "lat": 40.4309,
+      "lon": -3.66364
+    },
+    {
+      "name": "Ventilla",
+      "lat": 40.4694,
+      "lon": -3.69583
+    },
+    {
+      "name": "Ventura Rodríguez",
+      "lat": 40.4272,
+      "lon": -3.7138
+    },
+    {
+      "name": "Vicente Aleixandre",
+      "lat": 40.4465,
+      "lon": -3.71926
+    },
+    {
+      "name": "Vicálvaro",
+      "lat": 40.4042,
+      "lon": -3.60886
+    },
+    {
+      "name": "Villa de Vallecas",
+      "lat": 40.3795,
+      "lon": -3.6213
+    },
+    {
+      "name": "Villaverde Alto",
+      "lat": 40.34133,
+      "lon": -3.71186
+    },
+    {
+      "name": "Villaverde Bajo-Cruce",
+      "lat": 40.35104,
+      "lon": -3.69267
+    },
+    {
+      "name": "Vinateros",
+      "lat": 40.4103,
+      "lon": -3.65247
+    },
+    {
+      "name": "Vista Alegre",
+      "lat": 40.38881,
+      "lon": -3.73982
+    },
+    {
+      "name": "estación de El Casar",
+      "lat": 40.31853,
+      "lon": -3.70978
+    },
+    {
+      "name": "estación de Nuevos Ministerios",
+      "lat": 40.44628,
+      "lon": -3.69181
+    },
+    {
+      "name": "Ópera",
+      "lat": 40.4181,
+      "lon": -3.70934
+    }
+  ],
+  "parks": [
+    {
+      "name": "Parque del Retiro",
+      "lat": 40.4152,
+      "lon": -3.6844
+    },
+    {
+      "name": "Casa de Campo",
+      "lat": 40.4194,
+      "lon": -3.7472
+    },
+    {
+      "name": "Madrid Río",
+      "lat": 40.395,
+      "lon": -3.718
+    },
+    {
+      "name": "Parque del Oeste",
+      "lat": 40.427,
+      "lon": -3.72
+    },
+    {
+      "name": "Parque Juan Carlos I",
+      "lat": 40.4647,
+      "lon": -3.6089
+    },
+    {
+      "name": "Dehesa de la Villa",
+      "lat": 40.462,
+      "lon": -3.716
+    },
+    {
+      "name": "Parque de El Capricho",
+      "lat": 40.4472,
+      "lon": -3.5883
+    },
+    {
+      "name": "Quinta de los Molinos",
+      "lat": 40.4372,
+      "lon": -3.6175
+    },
+    {
+      "name": "Parque de Berlín",
+      "lat": 40.4615,
+      "lon": -3.674
+    },
+    {
+      "name": "Parque Pradolongo",
+      "lat": 40.376,
+      "lon": -3.7075
+    },
+    {
+      "name": "Parque de las Cruces",
+      "lat": 40.3893,
+      "lon": -3.7615
+    },
+    {
+      "name": "Parque Calero",
+      "lat": 40.4358,
+      "lon": -3.6412
+    },
+    {
+      "name": "Parque Enrique Tierno Galván",
+      "lat": 40.3915,
+      "lon": -3.6862
+    },
+    {
+      "name": "Parque Lineal del Manzanares",
+      "lat": 40.362,
+      "lon": -3.687
+    },
+    {
+      "name": "Parque de la Fuente del Berro",
+      "lat": 40.4232,
+      "lon": -3.6663
+    }
+  ],
+  "universities": [
+    {
+      "name": "Universidad Complutense (Ciudad Universitaria)",
+      "lat": 40.447,
+      "lon": -3.728
+    },
+    {
+      "name": "Universidad Politécnica de Madrid (Ciudad Universitaria)",
+      "lat": 40.4388,
+      "lon": -3.7318
+    },
+    {
+      "name": "Universidad Politécnica de Madrid (Campus Sur)",
+      "lat": 40.3855,
+      "lon": -3.628
+    },
+    {
+      "name": "IE University (Campus María de Molina)",
+      "lat": 40.436,
+      "lon": -3.679
+    },
+    {
+      "name": "Universidad Pontificia Comillas ICADE (Alberto Aguilera)",
+      "lat": 40.4302,
+      "lon": -3.7113
+    },
+    {
+      "name": "UNED (Senda del Rey)",
+      "lat": 40.4275,
+      "lon": -3.725
+    },
+    {
+      "name": "CEU San Pablo (Julián Romea)",
+      "lat": 40.446,
+      "lon": -3.7128
+    },
+    {
+      "name": "Universidad Autónoma de Madrid (Cantoblanco)",
+      "lat": 40.5445,
+      "lon": -3.6958
+    },
+    {
+      "name": "ESADE Madrid",
+      "lat": 40.475,
+      "lon": -3.688
+    },
+    {
+      "name": "Universidad Nebrija (Campus Princesa)",
+      "lat": 40.4295,
+      "lon": -3.716
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Puerta del Sol",
+      "lat": 40.4169,
+      "lon": -3.7033
+    },
+    {
+      "name": "Malasaña (Plaza del 2 de Mayo)",
+      "lat": 40.4256,
+      "lon": -3.704
+    },
+    {
+      "name": "Chueca (Plaza de Chueca)",
+      "lat": 40.422,
+      "lon": -3.6975
+    },
+    {
+      "name": "Huertas (Barrio de las Letras)",
+      "lat": 40.4145,
+      "lon": -3.699
+    },
+    {
+      "name": "Gran Vía",
+      "lat": 40.42,
+      "lon": -3.705
+    },
+    {
+      "name": "La Latina (Cava Baja)",
+      "lat": 40.411,
+      "lon": -3.7095
+    },
+    {
+      "name": "Lavapiés",
+      "lat": 40.4085,
+      "lon": -3.7008
+    }
+  ],
+  "center": {
+    "name": "Puerta del Sol",
+    "lat": 40.4169,
+    "lon": -3.7033
+  }
+}
