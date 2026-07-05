@@ -241,10 +241,10 @@ def render_body(data: dict) -> tuple[str, str]:
 <section class="hero animate-in d1" style="margin-top:0">
   <div class="eyebrow"><span class="sl">/</span> rental price anomaly detection · madrid</div>
   <h1>Which Madrid rentals are genuinely mispriced?</h1>
-  <p class="lede">An isolation forest — built from scratch — over {len(df):,} live
+  <p class="lede">An isolation forest, built from scratch, over {len(df):,} live
   Fotocasa listings, combined with a comparable-based fair-price model and a
   hedonic regression. It flags listings whose price doesn't fit their size,
-  location, condition and features. Not the cheapest or the dearest — the
+  location, condition and features. Not the cheapest or the dearest, the
   <em>anomalous</em>.</p>
 </section>
 
@@ -267,13 +267,13 @@ def render_body(data: dict) -> tuple[str, str]:
 </section>
 
 <section class="animate-in">
-  <h2><span class="sl">/</span> top underpriced — the bargains</h2>
+  <h2><span class="sl">/</span> top underpriced - the bargains</h2>
   <p>Ranked by combined mispricing score: distance from comparables × isolation-forest anomaly.</p>
   <div class="cards">{"".join(_listing_card(r, "under") for r in under_rows[:12])}</div>
 </section>
 
 <section class="animate-in">
-  <h2><span class="sl">/</span> top overpriced — asking too much</h2>
+  <h2><span class="sl">/</span> top overpriced - asking too much</h2>
   <div class="cards">{"".join(_listing_card(r, "over") for r in over_rows[:12])}</div>
 </section>
 
@@ -281,9 +281,9 @@ def render_body(data: dict) -> tuple[str, str]:
   <h2><span class="sl">/</span> features the market systematically misprices</h2>
   <p>Among flagged listings, which features cluster with bargains vs rip-offs. A
   <b style="color:{C_UNDER}">teal</b> bar means the feature is over-represented
-  among <em>underpriced</em> flats — the market underpays for it (hidden value).
+  among <em>underpriced</em> flats, so the market underpays for it (hidden value).
   A <b style="color:{C_OVER}">red</b> bar means it clusters with
-  <em>overpriced</em> flats — the market overpays for it (hype).</p>
+  <em>overpriced</em> flats, so the market overpays for it (hype).</p>
   <div class="chart">{data["feature_chart"]}</div>
 </section>
 
@@ -313,12 +313,12 @@ def render_body(data: dict) -> tuple[str, str]:
     <li><b>Data:</b> {len(df):,} live rental listings scraped from Fotocasa
       ({meta["scraped"]}), across all {df["district"].nunique()} Madrid districts.
       Idealista was intended too but returns HTTP&nbsp;403 to non-browser clients
-      (DataDome), so Fotocasa — which embeds listings as JSON — was used.</li>
+      (DataDome), so Fotocasa, which embeds listings as JSON, was used.</li>
     <li><b>Location:</b> haversine proximity to 243 real metro stations
       (Wikidata), 15 parks, 10 universities, a nightlife-noise kernel and
-      centrality — not raw lat/lon alone.</li>
-    <li><b>Isolation forest:</b> from scratch — random split trees, path-length +
-      c(n) normalisation, s = 2^(−E[h]/c(ψ)); no scikit-learn.</li>
+      centrality. Not raw lat/lon alone.</li>
+    <li><b>Isolation forest:</b> from scratch. Random split trees, path-length +
+      c(n) normalisation, s = 2^(-E[h]/c(ψ)), no scikit-learn.</li>
     <li><b>Fair price:</b> median price/m² of each listing's 40 nearest
       comparables in a price-independent characteristic space; residual
       z-scored robustly (MAD), gated on comparable reliability.</li>
@@ -485,7 +485,7 @@ def build() -> Path:
     style, body = render_body(data)
     doc = (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
            f'<meta name="viewport" content="width=device-width,initial-scale=1">'
-           f'<title>mad/rent — Madrid rental anomalies</title>'
+           f'<title>mad/rent · Madrid rental anomalies</title>'
            f'<meta name="description" content="Isolation-forest anomaly detection '
            f'over live Madrid rental listings: ranked under/overpriced flats and '
            f'the features the market misprices.">{_FONTS}'
